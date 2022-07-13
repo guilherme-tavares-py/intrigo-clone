@@ -5,7 +5,7 @@ export default function Title() {
     return(
         <header className='title'>
             <img src={IntrigoLogo} />
-            <h1>Intrigo.ie</h1>
+            <h1>Intrigo</h1>
         </header>
     )
 }
